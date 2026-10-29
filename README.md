@@ -1,6 +1,6 @@
-# 🧑‍💻 Juan Hoyos — Frontend Angular Specialist
+# 🧑‍💻 Juan Hoyos — Software Engineer
 
-## Frontend Developer · Lead Engineer · Full Stack Developer · Software Engineer
+## Software Engineer · Lead Engineer · Full Stack Developer · 
 
 📍 Tucumán, Argentina | 🌎 Disponible para trabajo remoto
 
