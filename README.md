@@ -4,9 +4,8 @@
 
 📍 Tucumán, Argentina | 🌎 Disponible para trabajo remoto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://devhoyosjuan.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developer-hoyos-juan/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:devhoyosjuan16@gmail.com)
 
 ---
 
@@ -86,12 +85,10 @@ También disfruto explorando la **Inteligencia Artificial**, la **automatizació
 
 ## 🚀 Proyectos Principales
 
-| Proyecto | Descripción | Tech Stack | Demo | Repo |
-| :--- | :--- | :--- | :---: | :---: |
-| **Agenda Pro** | Gestión de tareas con lógica desacoplada y estados complejos. | Angular, Hexagonal Arch. | 📎 | 📚 |
-| **Patitas E-commerce** | Template escalable de catálogo y checkout dinámico. | Angular, RxJS, Signals | 📎 | 📚 |
-| **Visual Tools** | Generador de layouts CSS dinámicos en tiempo real. | TS, Canvas API | 📎 | 📚 |
-| **Asistente Docente** | Sistema de gestión de notas y asistencias (Idea en curso). | Vanilla JS, n8n | 📎 | 📚 |
+| Proyecto | Descripción | Tech Stack | Demo |
+| :--- | :--- | :--- | :---: |
+| **F1 Race Replay** | Simulacion para analisis de GP de F1. | React. | [📎](https://f1-race-replay-sooty.vercel.app/) |
+| **Atlas Track** | App registro de entrenamiento. | React. | [📎](https://atlas-track-eta.vercel.app/) |
 
 ---
 
@@ -109,9 +106,9 @@ También disfruto explorando la **Inteligencia Artificial**, la **automatizació
 
 Estoy abierto a oportunidades como **Frontend Developer (Angular)**.
 
-- 💼 LinkedIn: <https://linkedin.com/in/tuusuario>
+- 💼 LinkedIn: <https://www.linkedin.com/in/developer-hoyos-juan/>
 - 💻 GitHub: <https://github.com/devhoyosjuan>
-- 📧 Email: <tuemail@gmail.com>
+- 📧 Email: <devhoyosjuan16@gmail.com>
 - 🌎 Ubicación: Tucumán, Argentina (UTC-3)
 
 ---
